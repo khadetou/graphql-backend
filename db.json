@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "27",
+      "firstName": "khadetou",
+      "age": 30,
+      "companyId": "1"
+    },
+    {
+      "id": "28",
+      "firstName": "Peter",
+      "age": 50,
+      "companyId": "2"
+    },
+    {
+      "id": "29",
+      "firstName": "Sebastian",
+      "age": 50,
+      "companyId": "2"
+    },
+    {
+      "id": "47",
+      "firstName": "Bill",
+      "age": 40,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple Inc. designs, develops, and sells consumer electronics, computer software, and personal computers."
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products. These include online advertising technologies, search, cloud computing, software, and hardware."
+    }
+  ]
+}
